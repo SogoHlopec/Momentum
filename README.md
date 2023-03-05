@@ -24,3 +24,4 @@ https://sogohlopec.github.io/Momentum/
 * Weather widget with local storage
 * Welcome widget with local storage
 * Quote of the day widget
+* Slider
