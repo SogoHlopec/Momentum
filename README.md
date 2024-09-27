@@ -25,3 +25,6 @@ https://sogohlopec.github.io/Momentum/
 * Welcome widget with local storage
 * Quote of the day widget
 * Slider
+
+## Desktop
+![desktop](https://github.com/SogoHlopec/Momentum/blob/main/desktop.jpg)
