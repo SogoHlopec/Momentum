@@ -21,10 +21,10 @@ This project is a copy of the Google Chrome extension Momentum. This project was
 * Slider
 
 ## Task:
-https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md
+* https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md
 
 ## Deploy:
-https://sogohlopec.github.io/Momentum/
+* https://sogohlopec.github.io/Momentum/
 
 ## Desktop
 ![desktop](https://github.com/SogoHlopec/Momentum/blob/main/desktop.jpg)
