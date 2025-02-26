@@ -1,12 +1,6 @@
 # Momentum
 This project is a copy of the Google Chrome extension Momentum. This project was created while studying at RS SHOOL https://rs.school/index.html Stage 0 2022q2
 
-## Task:
-* https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md
-
-## Deploy:
-https://sogohlopec.github.io/Momentum/
-
 ## Stack:
 * HTML5
 * CSS3
@@ -25,6 +19,12 @@ https://sogohlopec.github.io/Momentum/
 * Welcome widget with local storage
 * Quote of the day widget
 * Slider
+
+## Task:
+https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md
+
+## Deploy:
+https://sogohlopec.github.io/Momentum/
 
 ## Desktop
 ![desktop](https://github.com/SogoHlopec/Momentum/blob/main/desktop.jpg)
